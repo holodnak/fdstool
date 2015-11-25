@@ -1,0 +1,8 @@
+0 intvect.bin DFF6 10 PRG
+0 init.bin 0600 256 PRG
+0 boot.bin 2000 256 PRG
+16 intvect2.bin DFF6 10 PRG
+16 chr-lo.bin 0000 2048 CHR
+16 menu.bin 6000 2048 PRG
+16 menu.nam 2000 1024 NT
+16 disklist.bin 8000 4096 PRG
